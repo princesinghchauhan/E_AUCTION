@@ -1,0 +1,12 @@
+.Admin-navbar {
+    /* background-image: linear-gradient(to right, #9896F0, #FBC8D5); */
+    background-color: #355C7D;
+    position: static;
+    width: 100%;
+    height: 80;
+    /* margin-bottom: -50px; */
+}
+
+.nav-logo {
+    margin-left: 0px;
+}
